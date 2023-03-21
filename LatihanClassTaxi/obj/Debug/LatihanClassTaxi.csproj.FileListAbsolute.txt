@@ -1,0 +1,12 @@
+D:\22.11.4973\LatihanClassTaxi\LatihanClassTaxi\bin\Debug\LatihanClassTaxi.exe.config
+D:\22.11.4973\LatihanClassTaxi\LatihanClassTaxi\bin\Debug\LatihanClassTaxi.exe
+D:\22.11.4973\LatihanClassTaxi\LatihanClassTaxi\bin\Debug\LatihanClassTaxi.pdb
+D:\22.11.4973\LatihanClassTaxi\LatihanClassTaxi\obj\Debug\LatihanClassTaxi.csprojResolveAssemblyReference.cache
+D:\22.11.4973\LatihanClassTaxi\LatihanClassTaxi\obj\Debug\LatihanClassTaxi.exe
+D:\22.11.4973\LatihanClassTaxi\LatihanClassTaxi\obj\Debug\LatihanClassTaxi.pdb
+D:\Projects\Codes\LatihanClassTaxi\LatihanClassTaxi\bin\Debug\LatihanClassTaxi.exe.config
+D:\Projects\Codes\LatihanClassTaxi\LatihanClassTaxi\obj\Debug\LatihanClassTaxi.exe
+D:\Projects\Codes\LatihanClassTaxi\LatihanClassTaxi\obj\Debug\LatihanClassTaxi.pdb
+D:\Projects\Codes\LatihanClassTaxi\LatihanClassTaxi\bin\Debug\LatihanClassTaxi.exe
+D:\Projects\Codes\LatihanClassTaxi\LatihanClassTaxi\bin\Debug\LatihanClassTaxi.pdb
+D:\Projects\Codes\LatihanClassTaxi\LatihanClassTaxi\obj\Debug\LatihanClassTaxi.csprojResolveAssemblyReference.cache
